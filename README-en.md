@@ -7,11 +7,11 @@ Prism case built with WPF
 ### Screenshots.
 
 #### WPF Preview(Part)
-![Screenshot](https://github.com/HenJigg/WPF-Xamarin-Blazor-Examples/blob/master/img/Main.png)
+![Screenshot](img/Main.png)
 
-![Screenshot](https://github.com/HenJigg/WPF-Xamarin-Blazor-Examples/blob/master/img/DarkSkin.png)
+![Screenshot](img/DarkSkin.png)
 
-![Screenshot](https://github.com/HenJigg/WPF-Xamarin-Blazor-Examples/blob/master/img/Skin.png)
+![Screenshot](img/Skin.png)
  
 #### OpenApi Preview(Part)
-![Screenshot](https://github.com/HenJigg/WPF-Xamarin-Blazor-Examples/blob/master/img/MainServicePage.png)
+![Screenshot](img/MainServicePage.png)
