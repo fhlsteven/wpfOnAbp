@@ -14,12 +14,12 @@
 ### 效果预览
 #### WPF预览(部分)
 
-![Screenshot](https://github.com/fhlsteven/wpfOnAbp/master/img/Main.png)
+![Screenshot](https://github.com/fhlsteven/wpfOnAbp/tree/master/img/Main.png)
 
-![Screenshot](https://github.com/HenJigg/WPF-Xamarin-Blazor-Examples/blob/master/img/DarkSkin.png)
+![Screenshot](https://github.com/fhlsteven/wpfOnAbp/tree/master/img/DarkSkin.png)
 
-![Screenshot](https://github.com/HenJigg/WPF-Xamarin-Blazor-Examples/blob/master/img/Skin.png)
+![Screenshot](https://github.com/fhlsteven/wpfOnAbp/tree/master/img/Skin.png)
  
 #### OpenApi预览(部分)
-![Screenshot](https://github.com/HenJigg/WPF-Xamarin-Blazor-Examples/blob/master/img/MainServicePage.png)
+![Screenshot](https://github.com/fhlsteven/wpfOnAbp/tree/master/img/MainServicePage.png)
  
