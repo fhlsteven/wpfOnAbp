@@ -14,12 +14,12 @@
 ### 效果预览
 #### WPF预览(部分)
 
-![Screenshot](https://github.com/fhlsteven/wpfOnAbp/tree/master/img/Main.png)
+![Screenshot](img/Main.png)
 
-![Screenshot](https://github.com/fhlsteven/wpfOnAbp/tree/master/img/DarkSkin.png)
+![Screenshot](img/DarkSkin.png)
 
-![Screenshot](https://github.com/fhlsteven/wpfOnAbp/tree/master/img/Skin.png)
+![Screenshot](img/Skin.png)
  
 #### OpenApi预览(部分)
-![Screenshot](https://github.com/fhlsteven/wpfOnAbp/tree/master/img/MainServicePage.png)
+![Screenshot](img/MainServicePage.png)
  
