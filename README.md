@@ -14,7 +14,7 @@
 ### 效果预览
 #### WPF预览(部分)
 
-![Screenshot](https://github.com/HenJigg/WPF-Xamarin-Blazor-Examples/blob/master/img/Main.png)
+![Screenshot](https://github.com/fhlsteven/wpfOnAbp/master/img/Main.png)
 
 ![Screenshot](https://github.com/HenJigg/WPF-Xamarin-Blazor-Examples/blob/master/img/DarkSkin.png)
 
